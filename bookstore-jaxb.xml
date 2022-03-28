@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book>
+            <article>123456789</article>
+            <title>El gim Bu</title>
+            <publishYear>2000</publishYear>
+            <analog>
+                <article>WED1546HJ0</article>
+                <title>Name Book 0</title>
+                <publishYear>1954</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ1</article>
+                <title>Name Book 1</title>
+                <publishYear>1955</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ2</article>
+                <title>Name Book 2</title>
+                <publishYear>1956</publishYear>
+            </analog>
+        </book>
+        <book>
+            <article>987654321</article>
+            <title>Iko hi</title>
+            <publishYear>1988</publishYear>
+            <analog>
+                <article>WED1546HJ0</article>
+                <title>Name Book 0</title>
+                <publishYear>1954</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ1</article>
+                <title>Name Book 1</title>
+                <publishYear>1955</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ2</article>
+                <title>Name Book 2</title>
+                <publishYear>1956</publishYear>
+            </analog>
+        </book>
+        <book>
+            <article>561234987</article>
+            <title>Yong Tit</title>
+            <publishYear>2022</publishYear>
+            <analog>
+                <article>WED1546HJ0</article>
+                <title>Name Book 0</title>
+                <publishYear>1954</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ1</article>
+                <title>Name Book 1</title>
+                <publishYear>1955</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ2</article>
+                <title>Name Book 2</title>
+                <publishYear>1956</publishYear>
+            </analog>
+        </book>
+        <book>
+            <article>894567123</article>
+            <title>Blum Bool</title>
+            <publishYear>1959</publishYear>
+            <analog>
+                <article>WED1546HJ0</article>
+                <title>Name Book 0</title>
+                <publishYear>1954</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ1</article>
+                <title>Name Book 1</title>
+                <publishYear>1955</publishYear>
+            </analog>
+            <analog>
+                <article>WED1546HJ2</article>
+                <title>Name Book 2</title>
+                <publishYear>1956</publishYear>
+            </analog>
+        </book>
+    </bookList>
+</bookstore>
